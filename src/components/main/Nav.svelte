@@ -2,4 +2,5 @@
 	<a class="btn btn-dark text-light me-1" href="/">Главная</a>
 	<a class="btn btn-dark text-light me-1" href="/books">Книги</a>
 	<a class="btn btn-dark text-light me-1" href="/products">Продукты</a>
+	<a class="btn btn-dark text-light me-1" href="/hram">Храм</a>
 </div>
