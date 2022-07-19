@@ -52,7 +52,7 @@
 		</div>
 	{:then list}
 		{#each list as item}
-			<div class="col-3 mb-3">
+			<div class="col-md-3 mb-3">
 				<Product product={item.data()} />
 			</div>
 		{/each}
